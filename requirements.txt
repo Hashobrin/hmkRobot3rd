@@ -1,0 +1,9 @@
+pysimplegui
+pandas
+numpy
+odfpy
+openpyxl
+PyQRCode
+pypng
+opencv-contrib-python
+pyinstaller
